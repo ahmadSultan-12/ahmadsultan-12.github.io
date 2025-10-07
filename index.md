@@ -7,7 +7,7 @@ title: "Ahmad Sultan"
     <h2>News & Updates</h2>
     <ul>
 <!--         <li>Started a summer internship in May 2025 at Canon Medical Research USA (CMRU) as an MR Feature Development Research Scientist.</li>      -->
-        <li>Co-authored the manuscript <a href="[https://doi.org/10.1002/mrm.70000](https://doi.org/10.1002/mrm.70000)" target="_blank" class="custom-link">"Multi-dynamic deep image prior for cardiac MRI"</a>, published in the journal of <em>Magnetic Resonance in Medicine</em>, Summer 2025.</li>     
+        <li>Co-authored the manuscript <a href="https://doi.org/10.1002/mrm.70000" target="_blank" class="custom-link">"Multi-dynamic deep image prior for cardiac MRI"</a>, published in the journal of <em>Magnetic Resonance in Medicine</em>, Summer 2025.</li>     
 <!--         <li>Awarded 2nd Place at the 2025 Hayes Research Forum for my oral presentation on “Motion-Robust Volumetric CMR.”</li> -->
     </ul>
 </section>
