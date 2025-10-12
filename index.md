@@ -253,6 +253,15 @@ title: "Ahmad Sultan"
 <section class="talks"> -->
 <h3>Poster Presentations</h3>
 <ul class="talk-list">
+
+
+
+<li><div class="talk-title"><a href="" target="_blank"> <!--  link  -->
+    Motion-robust self-supervised reconstruction framework for MRI-based late gadolinium enhancement Imaging (LGE).</a> <!--  title  -->
+    <span class="talk-year">2025</span></div> <!--  year  -->
+<!--     <div class="publication-authors">Xuan Lei, Philip Schniter, Chong Chen, <strong>Muhammad Ahmad Sultan</strong>, Rizwan Ahmad</div> <!--  authors  --> 
+    <div class="talk-details"><em>OSU Graduate Engineering Research Symposium 2025</em></div></li> <!--  journal  -->
+
     
 <li><div class="talk-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635382" target="_blank"> <!--  link  -->
     Surface coil intensity correction for MRI.</a> <!--  title  -->
@@ -261,12 +270,6 @@ title: "Ahmad Sultan"
     <div class="talk-details"><em>ISBI'24, <strong>Athens, Greece</strong></em></div></li> <!--  journal  -->
 
     
-<li><div class="talk-title"><a href="" target="_blank"> <!--  link  -->
-    Motion-robust self-supervised reconstruction framework for MRI-based late gadolinium enhancement Imaging (LGE).</a> <!--  title  -->
-    <span class="talk-year">2025</span></div> <!--  year  -->
-<!--     <div class="publication-authors">Xuan Lei, Philip Schniter, Chong Chen, <strong>Muhammad Ahmad Sultan</strong>, Rizwan Ahmad</div> <!--  authors  --> 
-    <div class="talk-details"><em>OSU Graduate Research Symposium 2025</em></div></li> <!--  journal  -->
-
     
 
 </ul>
