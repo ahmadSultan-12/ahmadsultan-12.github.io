@@ -259,8 +259,15 @@ title: "Ahmad Sultan"
     <span class="talk-year">2024</span></div> <!--  year  -->
 <!--     <div class="publication-authors">Xuan Lei, Philip Schniter, Chong Chen, <strong>Muhammad Ahmad Sultan</strong>, Rizwan Ahmad</div> <!--  authors  --> 
     <div class="talk-details"><em>ISBI'24, <strong>Athens, Greece</strong></em></div></li> <!--  journal  -->
-    
 
+    
+<li><div class="talk-title"><a href="" target="_blank"> <!--  link  -->
+    Motion-robust self-supervised reconstruction framework for MRI-based late gadolinium enhancement Imaging (LGE).</a> <!--  title  -->
+    <span class="talk-year">2025</span></div> <!--  year  -->
+<!--     <div class="publication-authors">Xuan Lei, Philip Schniter, Chong Chen, <strong>Muhammad Ahmad Sultan</strong>, Rizwan Ahmad</div> <!--  authors  --> 
+    <div class="talk-details"><em>OSU Graduate Research Symposium 2025</em></div></li> <!--  journal  -->
+
+    
 
 </ul>
 
