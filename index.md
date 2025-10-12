@@ -222,7 +222,7 @@ title: "Ahmad Sultan"
 
 </section>
 <section class="talks">
-<h2>Presentations</h2>
+<h2>Oral Presentations</h2>
 <ul class="talk-list">
 
 <li><div class="talk-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635579" target="_blank"> <!--  link  -->
@@ -231,12 +231,10 @@ title: "Ahmad Sultan"
 <!--     <div class="publication-authors"><strong>Muhammad Ahmad Sultan</strong>, Chong Chen, Yingmin Liu, Xuan Lei, Rizwan Ahmad</div> <!--  authors  --> 
     <div class="talk-details"><em>ISBI'24, <strong>Athens, Greece</strong></em></div></li> <!--  journal  -->
 
-<li><div class="talk-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635382" target="_blank"> <!--  link  -->
-    Surface coil intensity correction for MRI.</a> <!--  title  -->
-    <span class="talk-year">2024</span></div> <!--  year  -->
-<!--     <div class="publication-authors">Xuan Lei, Philip Schniter, Chong Chen, <strong>Muhammad Ahmad Sultan</strong>, Rizwan Ahmad</div> <!--  authors  --> 
-    <div class="talk-details"><em>ISBI'24, <strong>Athens, Greece</strong></em></div></li> <!--  journal  -->
-    
+
+
+
+
 <!--    
 <li><div class="publication-title"><a href="https://arxiv.org/abs/2405.16715" target="_blank">
     Coil Reweighting to Suppress Motion Artifacts in Real-Time Exercise Cine Imaging.</a>
@@ -244,6 +242,22 @@ title: "Ahmad Sultan"
     <div class="publication-authors">Chong Chen, Yingmin Liu, Yu Ding, Matthew Tong, Preethi Chandrasekaran, Christopher Crabtree, <strong>Syed M. Arshad</strong>, Yuchi Han, Rizwan Ahmad</div>
     <div class="publication-journal"><em>arXiv preprint arXiv:2405.16715</em></div></li>
 -->
+
+</ul>
+
+
+
+<!-- </section>
+<section class="talks"> -->
+<h2>Poster Presentations</h2>
+<ul class="talk-list">
+<li><div class="talk-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635382" target="_blank"> <!--  link  -->
+    Surface coil intensity correction for MRI.</a> <!--  title  -->
+    <span class="talk-year">2024</span></div> <!--  year  -->
+<!--     <div class="publication-authors">Xuan Lei, Philip Schniter, Chong Chen, <strong>Muhammad Ahmad Sultan</strong>, Rizwan Ahmad</div> <!--  authors  --> 
+    <div class="talk-details"><em>ISBI'24, <strong>Athens, Greece</strong></em></div></li> <!--  journal  -->
+    
+
 
 </ul>
 
