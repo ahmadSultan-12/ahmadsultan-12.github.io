@@ -222,7 +222,9 @@ title: "Ahmad Sultan"
 
 </section>
 <section class="talks">
-<h2>Oral Presentations</h2>
+<h2>Talks & Presentations</h2>
+
+<h3>Oral Presentations</h3>
 <ul class="talk-list">
 
 <li><div class="talk-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635579" target="_blank"> <!--  link  -->
@@ -249,8 +251,9 @@ title: "Ahmad Sultan"
 
 <!-- </section>
 <section class="talks"> -->
-<h2>Poster Presentations</h2>
+<h3>Poster Presentations</h3>
 <ul class="talk-list">
+    
 <li><div class="talk-title"><a href="https://doi.org/10.1109/ISBI56570.2024.10635382" target="_blank"> <!--  link  -->
     Surface coil intensity correction for MRI.</a> <!--  title  -->
     <span class="talk-year">2024</span></div> <!--  year  -->
