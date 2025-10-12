@@ -190,6 +190,12 @@ title: "Ahmad Sultan"
 <h3>Abstracts</h3>
 <ul class="publication-list">
 
+<li><div class="publication-title">
+    A motion-robust dual-echo 3D LGE reconstruction framework.
+    <span class="publication-year">2025</span></div>
+    <div class="publication-authors"><strong>Muhammad A. Sultan</strong>, Yingmin Liu, Karolina Zareba, Rizwan Ahmad</div>
+    <div class="publication-journal"><em>Under-review at JCMR for SCMR'26 Annual Scientific Sessions</em></div></li>
+
 <li><div class="publication-title"><a href="https://doi.org/10.1016/j.jocmr.2024.101504" target="_blank">
     FlowDIP: Real-time phase-contrast MRI reconstruction with flow-conditional deep image prior.</a>
     <span class="publication-year">2025</span></div>
