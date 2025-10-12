@@ -256,8 +256,8 @@ title: "Ahmad Sultan"
 
 
 
-<li><div class="talk-title"><a> <!--  link  -->
-    Motion-robust self-supervised reconstruction framework for MRI-based late gadolinium enhancement Imaging (LGE).</a> <!--  title  -->
+<li><div class="talk-title"> <!--  link  -->
+    Motion-robust self-supervised reconstruction framework for MRI-based late gadolinium enhancement Imaging (LGE). <!--  title  -->
     <span class="talk-year">2025</span></div> <!--  year  -->
 <!--     <div class="publication-authors">Xuan Lei, Philip Schniter, Chong Chen, <strong>Muhammad Ahmad Sultan</strong>, Rizwan Ahmad</div> <!--  authors  --> 
     <div class="talk-details"><em>OSU Graduate Engineering Research Symposium 2025</em></div></li> <!--  journal  -->
