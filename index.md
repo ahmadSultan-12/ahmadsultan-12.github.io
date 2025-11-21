@@ -147,6 +147,12 @@ title: "Ahmad Sultan"
     <span class="publication-year">2025</span></div> <!--  year  -->
     <div class="publication-authors"><strong>Muhammad A. Sultan</strong>, Chong Chen, Yingmin Liu, Katarzyna Gil, Karolina Zareba, Rizwan Ahmad</div> <!--  authors  -->
     <div class="publication-journal"><em>Magnetic Resonance Materials in Physics, Biology and Medicine</em></div></li> <!--  journal  -->
+
+<li><div class="publication-title"><a href="https://ieeexplore.ieee.org/abstract/document/10305289" target="_blank"> <!--  link  -->
+    Continuous Patient-Independent Estimation of Respiratory Rate and Blood Pressure Using Robust Spectro-Temporal Features Derived From Photoplethysmogram Only.</a> <!--  title  -->
+    <span class="publication-year">2023</span></div> <!--  year  -->
+    <div class="publication-authors"><strong>Muhammad A. Sultan</strong>, Wala Saadeh</div> <!--  authors  -->
+    <div class="publication-journal"><em>IEEE Open Journal of Engineering in Medicine and Biology</em></div></li> <!--  journal  -->
     
 </ul>
 
@@ -158,7 +164,7 @@ title: "Ahmad Sultan"
     A multi-dynamic low-rank deep image prior (ML-DIP) for real-time 3D cardiovascular MRI.</a>
     <span class="publication-year">2025</span></div>
     <div class="publication-authors">Chong Chen, Marc Vornehm, Preethi Chandrasekaran, <strong>Muhammad A. Sultan</strong>, Syed M. Arshad, Yingmin Liu, Yuchi Han, Rizwan Ahmad</div>
-    <div class="publication-journal"><em>arXiv preprint arXiv:2507.19404</em></div>
+    <div class="publication-journal"> Accepted for publication in the<em>Cardiovascular Magnetic Resonance,</em> arXiv:2507.19404 </div>
 </li>
 
 </ul>
