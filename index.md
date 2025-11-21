@@ -298,14 +298,14 @@ title: "Ahmad Sultan"
 <!--     <div class="publication-authors">Xuan Lei, Philip Schniter, Chong Chen, <strong>Muhammad Ahmad Sultan</strong>, Rizwan Ahmad</div> <!--  authors  --> 
     <div class="talk-details"><em>ISBI'24, <strong>Athens, Greece</strong></em></div></li> <!--  journal  -->
 
-<li><div class="talk-title"> <a href="https://archive.ismrm.org/2023/4780.html" target="_blank"> <!--  link  -->
-    Deep image prior with structured sparsity for dynamic MRI reconstruction. <!--  title  -->
+<li><div class="talk-title"><a href="https://archive.ismrm.org/2023/4780.html" target="_blank"> <!--  link  -->
+    Deep image prior with structured sparsity for dynamic MRI reconstruction.</a> <!--  title  -->
     <span class="talk-year">2023</span></div> <!--  year  -->
 <!--     <div class="publication-authors">Xuan Lei, Philip Schniter, Chong Chen, <strong>Muhammad Ahmad Sultan</strong>, Rizwan Ahmad</div> <!--  authors  --> 
     <div class="talk-details"><em>ISMRM & ISMRT Annual Meeting & Exhibition, Toronto, Canada</em></div></li> <!--  journal  -->
 
 <li><div class="talk-title"> <a href="https://ieeexplore.ieee.org/document/9937671" target="_blank"> <!--  link  -->
-    Robust estimation of respiratory rate from photoplethysmogram with respiration quality analysis. <!--  title  -->
+    Robust estimation of respiratory rate from photoplethysmogram with respiration quality analysis.</a> <!--  title  -->
     <span class="talk-year">2022</span></div> <!--  year  -->
 <!--     <div class="publication-authors">Xuan Lei, Philip Schniter, Chong Chen, <strong>Muhammad Ahmad Sultan</strong>, Rizwan Ahmad</div> <!--  authors  --> 
     <div class="talk-details"><em>IEEE International Symposium on Circuits and Systems (ISCAS), Austin, Texas, USA</em></div></li> <!--  journal  -->
