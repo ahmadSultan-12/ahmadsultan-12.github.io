@@ -164,7 +164,7 @@ title: "Ahmad Sultan"
     A multi-dynamic low-rank deep image prior (ML-DIP) for real-time 3D cardiovascular MRI.</a>
     <span class="publication-year">2025</span></div>
     <div class="publication-authors">Chong Chen, Marc Vornehm, Preethi Chandrasekaran, <strong>Muhammad A. Sultan</strong>, Syed M. Arshad, Yingmin Liu, Yuchi Han, Rizwan Ahmad</div>
-    <div class="publication-journal"> Accepted for publication in the<em>Cardiovascular Magnetic Resonance,</em> arXiv:2507.19404 </div>
+    <div class="publication-journal"> Accepted for publication in the <em>Cardiovascular Magnetic Resonance,</em> arXiv:2507.19404 </div>
 </li>
 
 </ul>
@@ -184,6 +184,12 @@ title: "Ahmad Sultan"
     <span class="publication-year">2024</span></div> <!--  year  -->
     <div class="publication-authors">Xuan Lei, Philip Schniter, Chong Chen, <strong>Muhammad A. Sultan</strong>, Rizwan Ahmad</div> <!--  authors  -->
     <div class="publication-journal"><em>ISBI'24, Athens, Greece</em></div></li> <!--  journal  -->
+ 
+ <li><div class="publication-title"><a href="https://ieeexplore.ieee.org/document/9937671" target="_blank"> <!--  link  -->
+    Robust Estimation of Respiratory Rate from Photoplethysmogram with Respiration Quality Analysis.</a> <!--  title  -->
+    <span class="publication-year">2022</span></div> <!--  year  -->
+    <div class="publication-authors"><strong>Muhammad A. Sultan</strong>, Wala Saadeh</div> <!--  authors  -->
+    <div class="publication-journal"><em>ISCAS'22, Austin, Texas, USA,</em></div></li> <!--  journal  -->
     
 <!--    
 <li><div class="publication-title"><a href="https://arxiv.org/abs/2405.16715" target="_blank">
