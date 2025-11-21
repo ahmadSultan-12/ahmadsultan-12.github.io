@@ -189,7 +189,7 @@ title: "Ahmad Sultan"
     Robust Estimation of Respiratory Rate from Photoplethysmogram with Respiration Quality Analysis.</a> <!--  title  -->
     <span class="publication-year">2022</span></div> <!--  year  -->
     <div class="publication-authors"><strong>Muhammad A. Sultan</strong>, Wala Saadeh</div> <!--  authors  -->
-    <div class="publication-journal"><em>ISCAS'22, Austin, Texas, USA,</em></div></li> <!--  journal  -->
+    <div class="publication-journal"><em>ISCAS'22, Austin, Texas, USA</em></div></li> <!--  journal  -->
     
 <!--    
 <li><div class="publication-title"><a href="https://arxiv.org/abs/2405.16715" target="_blank">
@@ -210,7 +210,7 @@ title: "Ahmad Sultan"
     A motion-robust dual-echo 3D LGE reconstruction framework.
     <span class="publication-year">2025</span></div>
     <div class="publication-authors"><strong>Muhammad A. Sultan</strong>, Yingmin Liu, Karolina Zareba, Rizwan Ahmad</div>
-    <div class="publication-journal"><em>Under-review at JCMR for SCMR'26 Annual Scientific Sessions</em></div></li>
+    <div class="publication-journal"><em>Accepted for presentation at SCMR'26 Annual Scientific Sessions</em>, Rio de Janeiro, Brazil</div></li>
 
 <li><div class="publication-title"><a href="https://doi.org/10.1016/j.jocmr.2024.101504" target="_blank">
     FlowDIP: Real-time phase-contrast MRI reconstruction with flow-conditional deep image prior.</a>
