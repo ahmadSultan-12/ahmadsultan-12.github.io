@@ -8,7 +8,7 @@ title: "Ahmad Sultan"
     <ul>
 <!--         <li>Started a summer internship in May 2025 at Canon Medical Research USA (CMRU) as an MR Feature Development Research Scientist.</li>      -->
         <li>The manuscript <a href="https://arxiv.org/abs/2507.19404" target="_blank" class="custom-link">"A multi-dynamic low-rank deep image prior (ML-DIP) for 3D real-time cardiovascular MRI"</a>, accepted for publication in the journal of <em>Cardiovascular Magnetic Resonance</em>, Fall 2025.</li>
-        <li>The abstract "A motion-robust dual-echo 3D LGE reconstruction framework.", accepted for presentation at the <em>SCMR 2026 Annual Scientific Sessions, Rio de Janeiro, Brazil</em>, Fall 2025.</li>
+        <li>The abstract <a href="/assets/files/SCMR26_Sultan_3D_LGE_abstract.pdf" target="_blank"> "A motion-robust dual-echo 3D LGE reconstruction framework."</a>, accepted for presentation at the <em>SCMR 2026 Annual Scientific Sessions, Rio de Janeiro, Brazil</em>, Fall 2025.</li>
         <li>Co-authored the manuscript <a href="https://doi.org/10.1002/mrm.70000" target="_blank" class="custom-link">"Multi-dynamic deep image prior for cardiac MRI"</a>, published in the journal of <em>Magnetic Resonance in Medicine</em>, Summer 2025.</li>    
              
 
@@ -321,6 +321,7 @@ EMORe: Motion-robust free-breathing volumetric cardiovascular magnetic resonance
 <div class="talk-details"><em>2025 Hayes Advanced Research Forum, The Ohio State University, Columbus, OH | 2nd Place Winner</em></div></li>
 
 <li><div class="talk-title">EMORe: Motion-robust XD-CMR reconstruction using Expectation-Maximization (EM) algorithm.<span class="talk-year">2025</span></div><div class="talk-details"><em>SCMR'25: Motion Compensation Session, Washington, DC</em></div></li>
+
 <li><div class="talk-title"><a href="/assets/files/EMORe_Poster_Arshad_2024.pdf" target="_blank">EMORe: Motion-robust XD-CMR reconstruction using Expectation-Maximization (EM) algorithm.</a><span class="talk-year">2024</span></div><div class="talk-details"><em>Kraus Memorial Poster Competition ’24, The Ohio State University, Columbus, OH. | 2nd Place Winner</em></div></li>
 <li><div class="talk-title">Motion robust 3D cine imaging using Compressive Recovery with Outlier Rejection (CORe).<span class="talk-year">2024</span></div><div class="talk-details"><em>SCMR ’24: Dealing with Motion Session, London, UK</em></div></li>
 <li><div class="talk-title"><a href="https://buckeyemailosu-my.sharepoint.com/:v:/g/personal/arshad_32_buckeyemail_osu_edu/EQQ-d9V8U1NBsBGK47P0xAwBaYm3k7p5Usy8OVu6gxJvPQ?e=w1fwv6" target="_blank">Motion-robust free-running volumetric cardiovascular MRI.</a><span class="talk-year">2023</span></div><div class="talk-details"><em>Kraus Memorial Poster Competition’23, The Ohio State University, Columbus, OH</em></div></li>
