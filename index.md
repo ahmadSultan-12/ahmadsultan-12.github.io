@@ -135,7 +135,13 @@ title: "Ahmad Sultan"
     
 <h3>Journal Articles</h3>
 <ul class="publication-list">
-    
+
+<li><div class="publication-title"><a href="https://doi.org/10.1016/j.jocmr.2025.102015" target="_blank"> <!--  link  -->
+    A multi-dynamic low-rank deep image prior (ML-DIP) for real-time 3D cardiovascular MRI.</a> <!--  title  -->
+    <span class="publication-year">2025</span></div> <!--  year  -->
+    <div class="publication-authors">Chong Chen, Marc Vornehm, Zhenyu Bu, Preethi Chandrasekaran, <strong>Muhammad A. Sultan</strong>, Syed M. Arshad, Yingmin Liu, Yuchi Han, Rizwan Ahmad</div> <!--  authors  -->
+    <div class="publication-journal"><em>Cardiovascular Magnetic Resonance.</em></div></li> <!--  journal  -->
+
 <li><div class="publication-title"><a href="https://doi.org/10.1002/mrm.70000" target="_blank"> <!--  link  -->
     Multi-dynamic deep image prior for cardiac MRI.</a> <!--  title  -->
     <span class="publication-year">2025</span></div> <!--  year  -->
@@ -157,7 +163,7 @@ title: "Ahmad Sultan"
 </ul>
 
 
-<h3>Preprints</h3>
+<!-- <h3>Preprints</h3>
 <ul class="publication-list">
     
 <li><div class="publication-title"><a href="https://arxiv.org/abs/2507.19404" target="_blank">
@@ -167,7 +173,7 @@ title: "Ahmad Sultan"
     <div class="publication-journal"> Accepted for publication in the <em>Cardiovascular Magnetic Resonance,</em> arXiv:2507.19404 </div>
 </li>
 
-</ul>
+</ul> -->
 
 
 <h3>Conference Proceedings</h3>
