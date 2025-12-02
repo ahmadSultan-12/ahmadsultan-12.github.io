@@ -222,7 +222,7 @@ title: "Ahmad Sultan"
     Motion-Guided Deep Image Prior for Dynamic Cardiac MRI.</a>
     <span class="publication-year">2025</span></div>
     <div class="publication-authors">Marc Vornehm, Chong Chen, <strong>Muhammad A. Sultan</strong>, Syed M. Arshad, Florian Knoll, Rizwan Ahmad</div>
-    <div class="publication-journal"><em>ISMRM'25, Honololu, Hawai'i, USA</em></div></li>
+    <div class="publication-journal"><em>ISMRM'25, Honolulu, Hawai'i, USA</em></div></li>
     
 <li><div class="publication-title"><a href="https://doi.org/10.1016/j.jocmr.2024.101504" target="_blank">
     FlowDIP: Real-time phase-contrast MRI reconstruction with flow-conditional deep image prior.</a>
