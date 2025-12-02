@@ -218,6 +218,12 @@ title: "Ahmad Sultan"
     <div class="publication-authors"><strong>Muhammad A. Sultan</strong>, Yingmin Liu, Karolina Zareba, Rizwan Ahmad</div>
     <div class="publication-journal"><em>Accepted for presentation at SCMR'26 Annual Scientific Sessions</em>, Rio de Janeiro, Brazil</div></li>
 
+<li><div class="publication-title"><a href="https://archive.ismrm.org/2025/0120.html" target="_blank">
+    Motion-Guided Deep Image Prior for Dynamic Cardiac MRI.</a>
+    <span class="publication-year">2025</span></div>
+    <div class="publication-authors">Marc Vornehm, Chong Chen, <strong>Muhammad A. Sultan</strong>, Syed M. Arshad, Florian Knoll, Rizwan Ahmad</div>
+    <div class="publication-journal"><em>ISMRM'25, Honololu, Hawai'i, USA</em></div></li>
+    
 <li><div class="publication-title"><a href="https://doi.org/10.1016/j.jocmr.2024.101504" target="_blank">
     FlowDIP: Real-time phase-contrast MRI reconstruction with flow-conditional deep image prior.</a>
     <span class="publication-year">2025</span></div>
