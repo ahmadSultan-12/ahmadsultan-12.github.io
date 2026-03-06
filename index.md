@@ -218,7 +218,7 @@ title: "Ahmad Sultan"
     A motion-robust dual-echo 3D LGE reconstruction framework.</a>
     <span class="publication-year">2025</span></div>
     <div class="publication-authors"><strong>Muhammad A. Sultan</strong>, Yingmin Liu, Karolina Zareba, Rizwan Ahmad</div>
-    <div class="publication-journal"><em>Accepted for presentation at SCMR'26 Annual Scientific Sessions</em>, Rio de Janeiro, Brazil</div></li>
+    <div class="publication-journal"><em>SCMR'26 Annual Scientific Sessions</em>, Rio de Janeiro, Brazil</div></li>
 
 <li><div class="publication-title"><a href="https://archive.ismrm.org/2025/0120.html" target="_blank">
     Motion-Guided Deep Image Prior for Dynamic Cardiac MRI.</a>
