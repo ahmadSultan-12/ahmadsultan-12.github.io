@@ -214,7 +214,7 @@ title: "Ahmad Sultan"
 <h3>Abstracts</h3>
 <ul class="publication-list">
 
-<li><div class="publication-title"><a href="/assets/files/SCMR26_Sultan_3D_LGE_abstract.pdf" target="_blank">
+<li><div class="publication-title"><a href="https://www.journalofcmr.com/article/S1097-6647(25)00790-2/fulltext" target="_blank">
     A motion-robust dual-echo 3D LGE reconstruction framework.</a>
     <span class="publication-year">2025</span></div>
     <div class="publication-authors"><strong>Muhammad A. Sultan</strong>, Yingmin Liu, Karolina Zareba, Rizwan Ahmad</div>
