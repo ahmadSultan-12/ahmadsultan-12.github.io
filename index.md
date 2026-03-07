@@ -264,8 +264,7 @@ title: "Ahmad Sultan"
 <ul class="talk-list">
 
 <li><div class="talk-title"><a href="https://www.journalofcmr.com/article/S1097-6647(25)00790-2/fulltext" target="_blank"> <!--  link  -->
-    Motion-robust whole-heart MRI-based late gadolinium enhancement (LGE) reconstruction framework for accurate assessment of heart fibrosis.<img width="3661" height="126" alt="image" src="https://github.com/user-attachments/assets/3249c03f-346d-4879-a21f-749d73f41399" />
-.</a> <!--  title  -->
+    Motion-robust whole-heart MRI-based late gadolinium enhancement (LGE) reconstruction framework for accurate assessment of heart fibrosis.</a> <!--  title  -->
     <span class="talk-year">2026</span></div> <!--  year  -->
 <!--     <div class="publication-authors"><strong>Muhammad Ahmad Sultan</strong>, Yingmin Liu, Katherine Binzel, Rizwan Ahmad</div> <!--  authors  --> 
     <div class="talk-details"><em>2026 Hayes Advanced Research Forum, Columbus, OH, USA</em></div></li> <!--  journal  -->
