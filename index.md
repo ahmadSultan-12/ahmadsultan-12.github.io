@@ -7,7 +7,7 @@ title: "Ahmad Sultan"
     <h2>News & Updates</h2>
     <ul>
 <!--         <li>Started a summer internship in May 2025 at Canon Medical Research USA (CMRU) as an MR Feature Development Research Scientist.</li>      -->
-        <li>The abstract <a href="https://www.journalofcmr.com/article/S1097-6647(25)00790-2/fulltext" target="_blank" class="custom-link"> "A motion-robust dual-echo 3D LGE reconstruction framework."</a>, presented and received <strong>Honorable Mention</strong> at the <em>2026 Hayes Advanced Research Forum</em>, The Ohio State University, Columbus, OH, Spring 2026.</li>
+        <li>The abstract <a href="https://www.journalofcmr.com/article/S1097-6647(25)00790-2/fulltext" target="_blank" class="custom-link"> "Motion-robust whole-heart MRI-based late gadolinium enhancement (LGE) reconstruction framework for accurate assessment of heart fibrosis."</a>, presented and received <strong>Honorable Mention</strong> at the <em>2026 Hayes Advanced Research Forum</em>, The Ohio State University, Columbus, OH, Spring 2026.</li>
         <li>The abstract <a href="https://www.journalofcmr.com/article/S1097-6647(25)00790-2/fulltext" target="_blank" class="custom-link"> "A motion-robust dual-echo 3D LGE reconstruction framework."</a>, presented at the <em>SCMR 2026 Annual Scientific Sessions, Rio de Janeiro, Brazil</em>, Spring 2026.</li>
         <li>The manuscript <a href="https://doi.org/10.1016/j.jocmr.2025.102015" target="_blank" class="custom-link">"A multi-dynamic low-rank deep image prior (ML-DIP) for 3D real-time cardiovascular MRI"</a>, published in the journal of <em>Cardiovascular Magnetic Resonance</em>, Fall 2025.</li>
         <!-- <li>The abstract <a href="https://www.journalofcmr.com/article/S1097-6647(25)00790-2/fulltext" target="_blank" class="custom-link"> "A motion-robust dual-echo 3D LGE reconstruction framework."</a>, accepted for presentation at the <em>SCMR 2026 Annual Scientific Sessions, Rio de Janeiro, Brazil</em>, Fall 2025.</li> -->
@@ -299,10 +299,17 @@ title: "Ahmad Sultan"
 
 
 <li><div class="talk-title"> <!--  link  -->
+    A motion-robust dual-echo 3D LGE reconstruction framework. <!--  title  -->
+    <span class="talk-year">2026</span></div> <!--  year  -->
+<!--     <div class="publication-authors"><strong>Muhammad Ahmad Sultan</strong>, Rizwan Ahmad</div> <!--  authors  --> 
+    <div class="talk-details"><em>SCMR'26, Rio de Janeiro, Brazil</em></div></li> <!--  journal  -->
+
+<li><div class="talk-title"> <!--  link  -->
     Motion-robust 3D late gadolinium enhancement Imaging (LGE). <!--  title  -->
     <span class="talk-year">2025</span></div> <!--  year  -->
 <!--     <div class="publication-authors">Xuan Lei, Philip Schniter, Chong Chen, <strong>Muhammad Ahmad Sultan</strong>, Rizwan Ahmad</div> <!--  authors  --> 
     <div class="talk-details"><em>DHLRI Research Day'25, Columbus, OH</em></div></li> <!--  journal  -->
+
     
 
 <li><div class="talk-title"> <!--  link  -->
