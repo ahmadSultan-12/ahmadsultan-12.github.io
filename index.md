@@ -8,7 +8,7 @@ title: "Ahmad Sultan"
     <ul>
 <!--         <li>Started a summer internship in May 2025 at Canon Medical Research USA (CMRU) as an MR Feature Development Research Scientist.</li>      -->
         
-        <li>The manuscript <a href="https://doi.org/10.48550/arXiv.2608.19506">"MOSAIC: A self-supervised dynamic multi-encoding reconstruction framework for 3D late gadolinium enhancement MRI"</a>, under review at the journal of <em>Magnetic Resonance in Medicine</em>, Summer 2026.</li>
+        <li>The manuscript <a href="https://doi.org/10.48550/arXiv.2608.19506" target="_blank" class="custom-link">"MOSAIC: A self-supervised dynamic multi-encoding reconstruction framework for 3D late gadolinium enhancement MRI"</a>, under review at the journal of <em>Magnetic Resonance in Medicine</em>, Summer 2026.</li>
         <li>The abstract <a href="https://www.journalofcmr.com/article/S1097-6647(25)00790-2/fulltext" target="_blank" class="custom-link"> "Motion-robust whole-heart MRI-based late gadolinium enhancement (LGE) reconstruction framework for accurate assessment of heart fibrosis."</a>, presented and received <strong>Honorable Mention</strong> at the <em>2026 Hayes Advanced Research Forum, The Ohio State University, Columbus, OH</em>, Spring 2026.</li>
         <li>The abstract <a href="https://www.journalofcmr.com/article/S1097-6647(25)00790-2/fulltext" target="_blank" class="custom-link"> "A motion-robust dual-echo 3D LGE reconstruction framework."</a>, presented at the <em>SCMR 2026 Annual Scientific Sessions, Rio de Janeiro, Brazil</em>, Spring 2026.</li>
        
